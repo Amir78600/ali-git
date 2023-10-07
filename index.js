@@ -1,1 +1,2 @@
-console.log("muhammad amir");
+"use strict";
+console.log("amir nawaz");
